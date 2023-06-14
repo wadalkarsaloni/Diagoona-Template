@@ -1,0 +1,39 @@
+*{
+    height: auto;
+    width: auto;
+    margin: inherit;
+}
+
+.main_div{
+    height: 100vh;
+    width: 99.9vw;
+    background-image: 
+    linear-gradient( -69deg,
+        rgba(0,0,0,0.5) 50%,
+        transparent 50%),
+     url(https://i.insider.com/5a2589ab3339b027008b4715?width=750&format=jpeg&auto=webp);
+    background-size: 98.9% 100%;
+    background-repeat: no-repeat;
+}
+
+.head5{
+    color: white;
+    font-weight: 500;
+    padding: 2%;
+}
+
+.navbar ul{
+    list-style-type: none;
+    display: flex;
+    float: left;
+    /* padding: 2%; */
+    margin: 0px 20px 0px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+
+}
+li a{
+    color: white;
+    text-decoration: none;
+    
+}
